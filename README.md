@@ -1,2 +1,8 @@
 # DREAM-TEAM-project-1
 Welcome to the CSS 503 project 1 repository! This repository contains the source code and related files for our course project. Please find below a brief overview of the project structure and key components.
+
+The research question "How much has the number of books in the Kazakh language increased over the past ten years?" has primary importance, because it is not only about the quantifies the growth of Kazakh literature also serves as a catalyst for cultural improvement, encourages literary creativity, showcases the potential of data-driven insights, promotes technological innovation in the realm of literature, and provides a valuable resource for both researchers and readers interested in the vibrant world of Kazakh-language books.
+
+Based on what we found in our research, it looks like there's been a good increase in the number of books written in Kazakh in the last ten years. We noticed this especially in the years after 2020, and from 2021 to 2023, it went up even more.
+
+In conclusion, our project was not confined to the exploration of books in the Kazakh language; it metamorphosed into a profound journey of discovery, growth, and camaraderie. The skills and insights gained are not ephemeral, they form a bedrock for our academic and professional pursuits. As we bid adieu to this chapter, we carry forward not only a wealth of knowledge but also the enduring friendships that blossomed along the way. This project, far from being a culmination, is a stepping stone, a foundation upon which we will continue to build our academic and professional trajectories with gratitude for the transformative experiences it afforded us.
